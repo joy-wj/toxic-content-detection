@@ -1,4 +1,4 @@
-# dl-final-project-jenny-joy
+# toxic content detection
 This git repo contains work for Findal Project of MSDS631 Deep Learning with Pytorch 
 
 # Teammates
